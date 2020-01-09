@@ -1,0 +1,3 @@
+THis is a sample file
+we can write a properties of a class
+
